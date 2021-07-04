@@ -6,6 +6,8 @@ Carmona, Alejandro (2020/2021) Anotación estructural y funcional del cromosoma 
 
 The annotation for the current version contains the following files:  
   
+  * Cr_Ch4 Tandem Repeats - TXT, list of Tandem Repeats found in Cicer reticulatum´s chromosome 4 and their features
+  * HelitronScanner - TXT, list of transposable elements found in Cicer reticulatum,s chromosome 4
   * Mapped - GFF, list of mapped genes from Cicer arietinum to Cicer reticulatum and their features 
   * Unmapped - TXT, list of unmapped genes
   * Cr_Ch4 functional annotation - CSV, functional annotation of Cicer reticulatum´s mapped genes  
