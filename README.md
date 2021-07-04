@@ -6,8 +6,9 @@ Carmona, Alejandro (2020/2021) Anotación estructural y funcional del cromosoma 
 
 The annotation for the current version contains the following files:  
   
-  * Mapped - GFF  
-  * Unmapped - TXT, list of unmapped  
+  * Mapped - GFF, list of mapped genes from Cicer arietinum to Cicer reticulatum and their features 
+  * Unmapped - TXT, list of unmapped genes
+  * Cr_Ch4 functional annotation - CSV, functional annotation of Cicer reticulatum´s mapped genes  
   
 This is the description of the code used in the following tools:  
   
